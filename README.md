@@ -4,11 +4,16 @@
 
 - <b>osTicket (Help Desk Ticketing System)</b>
   - [osTicket: Prerequisites and Installation](https://github.com/billperez92/osticket-prereqs)
+  - [osTicket: Post Installation Configuration](https://github.com/billperez92/post-install-config)
   - [osTicket: Ticket Lifecycle Examples](https://github.com/billperez92/ticket-lifecycle)
 - <b>Microsoft Azure</b>
   - [Configuring On-premises Active Directory within Azure VMs](https://github.com/billperez92/ad-azuresetup)
   - [Active Directory: Deployment & Configuration](https://github.com/billperez92/ad-deployment-configuration).
+- <b>Network File Shares and Permissions
   - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/billperez92/azure-network-protocols)
+  - [Sharing Resources Over The Network With Permissions](https://github.com/billperez92/sharing-resources)
+
+
 
 <h2>🤳Connect with me:</h2>
 
