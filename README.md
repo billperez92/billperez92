@@ -10,6 +10,7 @@
   - [Configuring On-premises Active Directory within Azure VMs](https://github.com/billperez92/ad-azuresetup)
   - [Active Directory: Deployment & Configuration](https://github.com/billperez92/ad-deployment-configuration).
   - [Virtual Private Network (VPN)](https://github.com/billperez92/Virtual-Private-Networks).
+  - [DNS](https://github.com/billperez92/DNS).
 
 - <b>Network File Shares and Permissions</b>
   - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/billperez92/azure-network-protocols)
